@@ -1,0 +1,41 @@
+//Desenvolvimento dos Objetos para o DB JASON
+.
+.
+.
+//--> Atores:
+Fabricante(Nome,Segmento)
+Colgate-Palmolive
+Limpeza
+
+
+Produto (Nome,Fabricação,Lote,Validade,BarCode)
+AJAX Fresh Lemon
+22/04/2019
+
+Ação do Usuário
+Reciclar produto:
+
+Usuário faz o scan no produto X
+Adiciona a quantidade
+Disponibiliza no coletor:
+
+Usuario
+	"id': "1",
+	"nome": "Ricardo"
+	"Produto_tipo": "Alvejante"
+	"BAR_Code": "789123456780"
+	"Material_composicao": "Plastico"
+	"Material_peso": "50"
+	"Ecoponto": "BRRJ2-ECO0A82"
+	"Data_Descarte": "05/08/2019"
+	
+
+Criação das consultas
+http://localhost:3000/users?filter={"where":{"userId":10,"postID":3}
+	
+	
+
+
+
+
+ 

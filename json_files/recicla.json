@@ -1,0 +1,42 @@
+{
+	"recicla": [
+    {
+        "carimboDeDatahora": "2019-08-14T01:12:52.874Z",
+        "residncia": "BRRJ2-RES0001",
+        "barcode": 7891024120804,
+        "fabricante": "Palmolive",
+        "tiporeciclvel": "Plastico",
+        "quantidade": 1,
+        "peso": 100,
+        "ecoponto": "BRRJ2-ECO0003",
+        "bairro": "Jardim Marileia",
+        "data": "2019-08-13T03:00:00.000Z"
+    },
+    {
+        "carimboDeDatahora": "2019-08-14T01:31:21.860Z",
+        "residncia": "BRRJ2-RES0002",
+        "barcode": 7896085055829,
+        "fabricante": "Adria",
+        "tiporeciclvel": "Outros",
+        "quantidade": 2,
+        "peso": 10,
+        "ecoponto": "BRRJ2-ECO0002",
+        "bairro": "Ancora",
+        "data": "2019-08-13T03:00:00.000Z",
+        "undefined": 2
+    },
+    {
+        "carimboDeDatahora": "2019-08-14T01:33:48.106Z",
+        "residncia": "BRRJ2-RES0004",
+        "barcode": 7500435115827,
+        "fabricante": "Unilever",
+        "tiporeciclvel": "Plastico",
+        "quantidade": 1,
+        "peso": 100,
+        "ecoponto": "BRRJ2-ECO0010",
+        "bairro": "Jardim Campomar",
+        "data": "2019-08-13T03:00:00.000Z",
+        "undefined": 4
+    }
+]
+}
