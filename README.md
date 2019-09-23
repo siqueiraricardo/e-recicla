@@ -21,7 +21,7 @@ Está sendo simulado um webservice(jason), contento algumas infomações referen
 # Tipos de Resultados
 
 1 - Quantidade de pontos de coleta por região;<br>
-2 - Capacidade de pontos de coleta;<br>
+2 - Quantidade de material descartado;<br>
 
 
 
