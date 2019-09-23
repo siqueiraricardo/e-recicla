@@ -1,0 +1,18 @@
+﻿
+
+Obs quanto a web semantica:
+
+Entendimentos diversos que a web semantica ainda seja um dilema, apesar de termos modelos de estruturas já bem estudados, RDF, XML, JSON, se dá pelo reconhecimento dos objetos, nem sempre padronizados, exigindo que o motor (agente, ontologia) para manipulação/aplicação, tenham ferramentas suficiemente capazes de reconhecer e operacionalizar uma estrutura de modelo entidade relacionamento(MER).
+
+
+Em um microambiente onde haja uma planejamentos para a interoperabilidade entre sistemas, a utilização da filisofia da APIs, poderá ser uma ferramenta poderosa, tornando as informações disponíveis, de modo a agregar valor na gestão do negócio da organização.
+
+Ex. Recursos públicos(verbas orçamentárias) disponibilizadas hierarquicamente entre a unidade federativa e estados/municipios, quanto a sua aplicação.
+
+Criar métodos/padrões para publicação dos dados em API, de modo facilitar seu uso, independentemente da aplicação proprietária que essas entidades utilizem para o gerenciamento de suas funções.
+
+INDE e INDA (Infraestrutura Nacionais de Dados Espaciais | Abertos)
+
+http://wiki.dados.gov.br
+
+RS_09/22 - 2019
