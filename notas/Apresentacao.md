@@ -19,7 +19,7 @@ Para entender melhor o conceito da aplicação, precisei adotar de alguns concei
 <li>Modelagem de dados com seus respectivos relacionamentos;</li>
 <li>Criação de uma API REST Full Fake com <a href="https://nodejs.org/en/">Node.JS</a> e pocote <a href="https://github.com/typicode/json-server#getting-started">json-server</a>;</li>
 <li><a href="https://docs.google.com/spreadsheets/d/1jQv2dne4FeP32MAL7Sh0N8s-aKCgjG1dheBHYYRM64U/edit?usp=sharing">Formulário no Google Docs</a> para inserção dos dados + Script exportação no formato .json</li>
-<li>Criação do código em Python</li>
+<li>Criação do código em .Java</li>
 </ul>
 <p>O arquivo disponivel na API, contem apenas a o resultset da açao inerente ao descarte dos produtos. Uma melhoria é agregar este resultset a um metadados, criando assim um relacionamento entre os atributos. 
 
