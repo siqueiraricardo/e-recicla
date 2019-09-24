@@ -21,5 +21,5 @@ Para entender melhor o conceito da aplicação, precisei adotar de alguns concei
 <li><a href="https://docs.google.com/spreadsheets/d/1jQv2dne4FeP32MAL7Sh0N8s-aKCgjG1dheBHYYRM64U/edit?usp=sharing">Formulário no Google Docs</a> para inserção dos dados + Script exportação no formato .json</li>
 <li>Criação do código em Python</li>
 </ul>
-
+<p>O arquivo disponivel na API, contem apenas a o resultset da açao inerente ao descarte dos produtos. Uma melhoria é relacionar estes resultset a um metadados, criando assim um relacionamento entre os atributos. 
 
